@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I’m Vazir ♔
 
-<!--
-**whyonlyvazirr/whyonlyvazirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring **Ethical Hacker** and **Cybersecurity Learner**, documenting my journey into the world of infosec. I believe in breaking things to understand them — and then securing them to protect others.
 
-Here are some ideas to get you started:
+## 🔍 Areas of Focus:
+- Penetration Testing & Red Teaming
+- Web App Security (OWASP)
+- Bug Bounty Practice
+- Network & System Security
+- Bash, Python, and Automation Scripts
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools I’m using:
+`Burp Suite` • `Metasploit` • `Nmap` • `Kali Linux` • `JohnTheRipper` • `Wireshark`
+
+## 🧠 Current Challenges:
+- HTB | TryHackMe Labs
+- Daily Bash/Python scripts
+- Custom CTFs and writeups
+
+📚 Stay tuned — every repo tells a story.
+
+> “To become a hacker, you have to take the world apart and put it back together.” — Eric Raymond
